@@ -1,0 +1,6 @@
+fgcol: #8C8C8C
+bgcol: #282828
+hicol2: #b4801b
+hicol3: #e8a522
+hicol: #ffffff
+errcol: #a10705
